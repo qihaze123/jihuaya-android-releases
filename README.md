@@ -23,6 +23,8 @@
 - 升级说明
 - 如有必要，补充已知问题或注意事项
 
+可直接复用模板：[`RELEASE_TEMPLATE.md`](./RELEASE_TEMPLATE.md)
+
 ## 说明
 
 - 本仓库只负责 Android 发布包，不包含完整业务源码。
