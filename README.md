@@ -4,9 +4,9 @@
 
 ## 最新版本
 
-- 当前版本：`v1.0.1`
-- Release 页面：<https://github.com/qihaze123/jihuaya-android-releases/releases/tag/v1.0.1>
-- APK 下载：<https://github.com/qihaze123/jihuaya-android-releases/releases/download/v1.0.1/jihuaya-android-1.0.1%2B10001.apk>
+- 当前版本：`v1.1.11`
+- Release 页面：<https://github.com/qihaze123/jihuaya-android-releases/releases/tag/v1.1.11>
+- APK 下载：<https://github.com/qihaze123/jihuaya-android-releases/releases/download/v1.1.11/jihuaya-android-1.1.11%2B10112.apk>
 
 ## 使用说明
 
@@ -29,3 +29,4 @@
 
 - 本仓库只负责 Android 发布包，不包含完整业务源码。
 - 如需查看单个版本的具体说明，请进入对应的 Release 页面。
+
